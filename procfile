@@ -1,0 +1,1 @@
+web gunicorn englishDict.wsgi:application --log-file -
